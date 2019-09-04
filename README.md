@@ -1,0 +1,2 @@
+# amamiyabdarkray.github.io
+no
