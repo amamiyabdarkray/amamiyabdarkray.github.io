@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+p {
+	font-size: 24px;
+}
+h2 {
+	font-size: 24px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 60px;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+	font-family: "等线", "黑体", "仿宋", "楷体", "锐字真言体免费商用", "宋体";
+}
+h3 {
+	font-size: 45px;
+	text-align: left;
+	font-family: "等线", "黑体", "仿宋", "楷体", "锐字真言体免费商用", "宋体";
+}
+h4 {
+	font-family: "等线", "黑体", "仿宋", "楷体", "锐字真言体免费商用", "宋体";
+	font-size: 45px;
+	text-align: center;
+}
+h5 {
+	font-family: "等线", "黑体", "仿宋", "楷体", "锐字真言体免费商用", "宋体";
+	font-size: 24px;
+	text-indent: 60%;
+}
